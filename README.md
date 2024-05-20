@@ -1,6 +1,6 @@
 # Boys MC Modpack 1.20.1
 
-Minecraft modpack for the boys
+Minecraft modpack to play with my friends
 
 ## Choose Branch
 
